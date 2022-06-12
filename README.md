@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HarrisonBounds
 - 👀 I’m interested in ... Machine Learning
 - 🌱 I’m currently learning ... Microcontrollers
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... aanything!
 - 📫 How to reach me ... harrison.bounds777@gmail.com
 
 <!---
