@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on ... anything!
 - 📫 How to reach me ... harrison.bounds777@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarrisonBounds)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 HarrisonBounds/HarrisonBounds is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
